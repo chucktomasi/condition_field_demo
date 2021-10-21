@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>dba7de692f1f30100b0c58a72799b670</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_66238_airline_trip">
+    <x_66238_airline_trip action="INSERT_OR_UPDATE">
+        <customer display_value="Prentice Mayow">416212ad2fdb30100b0c58a72799b652</customer>
+        <date>2021-06-19 00:00:00</date>
+        <from>Yasugichō</from>
+        <miles/>
+        <price/>
+        <record_locator>WLFYM1</record_locator>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 15:49:33</sys_created_on>
+        <sys_id>dba7de692f1f30100b0c58a72799b670</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 16:35:00</sys_updated_on>
+        <to>Raofeng</to>
+    </x_66238_airline_trip>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-21 16:25:41</sys_created_on>
+        <sys_id>942370d62fdb30100b0c58a72799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WLFYM1</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_metadata_link_942370d62fdb30100b0c58a72799b68d</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-21 16:25:41</sys_updated_on>
+        <tablename>x_66238_airline_trip</tablename>
+    </sys_metadata_link>
+</record_update>
