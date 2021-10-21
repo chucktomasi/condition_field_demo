@@ -9,7 +9,7 @@
         <id>ME7TBZV4</id>
         <miles>53707</miles>
         <name>Norrie Yanin</name>
-        <status>platinum</status>
+        <status>no_status</status>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2021-10-19 15:26:27</sys_created_on>
         <sys_id>456212ad2fdb30100b0c58a72799b655</sys_id>
@@ -23,14 +23,14 @@
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2021-10-21 16:23:41</sys_created_on>
         <sys_id>b6a27c562fdb30100b0c58a72799b632</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Norrie Yanin</sys_name>
         <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
         <sys_update_name>sys_metadata_link_b6a27c562fdb30100b0c58a72799b632</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2021-10-21 16:23:41</sys_updated_on>
+        <sys_updated_on>2021-10-21 21:46:27</sys_updated_on>
         <tablename>x_66238_airline_customer</tablename>
     </sys_metadata_link>
 </record_update>

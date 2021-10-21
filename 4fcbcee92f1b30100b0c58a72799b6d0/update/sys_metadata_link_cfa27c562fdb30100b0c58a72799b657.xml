@@ -9,7 +9,7 @@
         <id>3YLYV0TA</id>
         <miles>25486</miles>
         <name>Vachel Belleny</name>
-        <status>gold</status>
+        <status>no_status</status>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2021-10-19 15:26:27</sys_created_on>
         <sys_id>496212ad2fdb30100b0c58a72799b64f</sys_id>
@@ -23,14 +23,14 @@
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2021-10-21 16:23:42</sys_created_on>
         <sys_id>cfa27c562fdb30100b0c58a72799b657</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Vachel Belleny</sys_name>
         <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
         <sys_update_name>sys_metadata_link_cfa27c562fdb30100b0c58a72799b657</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2021-10-21 16:23:42</sys_updated_on>
+        <sys_updated_on>2021-10-21 21:46:28</sys_updated_on>
         <tablename>x_66238_airline_customer</tablename>
     </sys_metadata_link>
 </record_update>
