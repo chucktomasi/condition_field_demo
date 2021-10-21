@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ffa7de692f1f30100b0c58a72799b6e0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_66238_airline_trip">
+    <x_66238_airline_trip action="INSERT_OR_UPDATE">
+        <customer display_value="Michaela Loseke">456216ed2fdb30100b0c58a72799b68c</customer>
+        <date>2021-07-14 00:00:00</date>
+        <from>Or Yehuda</from>
+        <miles/>
+        <price/>
+        <record_locator>G9111K</record_locator>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 15:49:35</sys_created_on>
+        <sys_id>ffa7de692f1f30100b0c58a72799b6e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 16:35:03</sys_updated_on>
+        <to>Uman’</to>
+    </x_66238_airline_trip>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-21 16:25:16</sys_created_on>
+        <sys_id>75033c962fdb30100b0c58a72799b6d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>G9111K</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_metadata_link_75033c962fdb30100b0c58a72799b6d9</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-21 16:25:16</sys_updated_on>
+        <tablename>x_66238_airline_trip</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="status" table="x_66238_airline_status_rule">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice>3</choice>
+        <choice_field>status</choice_field>
+        <choice_table>x_66238_airline_customer</choice_table>
+        <column_label>Status</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>no_status</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>status</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_66238_airline_status_rule</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 21:37:28</sys_created_on>
+        <sys_id>9d2723a12fd370100b0c58a72799b606</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Status</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_dictionary_x_66238_airline_status_rule_status</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 21:40:17</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</application>
+        <file_path/>
+        <instance_id>476ecffedb6cf70052cec597059619f3</instance_id>
+        <instance_name>dev79000</instance_name>
+        <name>sys_dictionary_x_66238_airline_status_rule_status</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_66238_airline_status_rule"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;3&lt;/choice&gt;&lt;choice_field&gt;status&lt;/choice_field&gt;&lt;choice_table&gt;x_66238_airline_customer&lt;/choice_table&gt;&lt;column_label&gt;Status&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;no_status&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;status&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_66238_airline_status_rule&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;chuck.tomasi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-10-19 21:37:28&lt;/sys_created_on&gt;&lt;sys_id&gt;9d2723a12fd370100b0c58a72799b606&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Status&lt;/sys_name&gt;&lt;sys_package display_value="Airline" source="x_66238_airline"&gt;4fcbcee92f1b30100b0c58a72799b6d0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Airline"&gt;4fcbcee92f1b30100b0c58a72799b6d0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_66238_airline_status_rule_status&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;chuck.tomasi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-10-19 21:40:17&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-594870979</payload_hash>
+        <record_name>Status rule.Status</record_name>
+        <reverted_from/>
+        <source>0fcbca612fdb30100b0c58a72799b617</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 21:40:18</sys_created_on>
+        <sys_id>91f76f6d2f9770100b0c58a72799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c9a7f7b550000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 21:40:18</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>59f76f6dfa97701003e641b086705cd7</update_guid>
+        <update_guid_history>59f76f6dfa97701003e641b086705cd7:-594870979,2ad76b6d2897701033094fde489ff725:-1377616130,7f47a32d2d977010f35451b82f30cadf:-1570185296,ac63ba25ab1370108f2527dff0cfea40:-130268808,39f622a9909f301039283a0d807f52fb:839273132,45066629ea9f30107976166e29e5e0c1:-1570185296</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 21:52:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>8f1fb0c25a594630abb2e07ef75a8a40</sys_id>
+        <sys_metadata>9d2723a12fd370100b0c58a72799b606</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_parent display_value="">6a07abe92f9770100b0c58a72799b630</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_scope_delete display_value="">02a655a9ecec44c492e21884839ec9a4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_66238_airline_status_rule_status</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_66238_airline_status_rule_status">91f76f6d2f9770100b0c58a72799b6d8</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 21:52:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

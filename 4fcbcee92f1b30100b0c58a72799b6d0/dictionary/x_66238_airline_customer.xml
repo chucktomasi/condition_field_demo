@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customer" max_length="40" name="x_66238_airline_customer" sizeclass="101" type="collection">
+        <element default="0" label="Dollars" max_length="40" name="dollars" type="integer"/>
+        <element label="Email" mandatory="true" max_length="80" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="40" name="id" read_only="true" type="string"/>
+        <element default="0" label="Miles" max_length="40" name="miles" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="80" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default=" no_status" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No status" sequence="0" value="no_status"/>
+                <element inactive_on_update="false" label="Silver" sequence="1" value="silver"/>
+                <element inactive_on_update="false" label="Gold" sequence="2" value="gold"/>
+                <element inactive_on_update="false" label="Platinum" sequence="3" value="platinum"/>
+                <element inactive_on_update="false" label="Diamond" sequence="4" value="diamond"/>
+            </choice>
+        </element>
+    </element>
+</database>

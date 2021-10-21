@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>40b712a92f1f30100b0c58a72799b62a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_66238_airline_trip">
+    <x_66238_airline_trip action="INSERT_OR_UPDATE">
+        <customer display_value="Reinhard Colgrave">4d6212ad2fdb30100b0c58a72799b655</customer>
+        <date>2020-10-28 00:00:00</date>
+        <from>Petrozavodsk</from>
+        <miles/>
+        <price/>
+        <record_locator>54TYQC</record_locator>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 15:49:36</sys_created_on>
+        <sys_id>40b712a92f1f30100b0c58a72799b62a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 16:34:53</sys_updated_on>
+        <to>Goseong</to>
+    </x_66238_airline_trip>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-21 16:28:47</sys_created_on>
+        <sys_id>55d3705a2fdb30100b0c58a72799b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>54TYQC</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_metadata_link_55d3705a2fdb30100b0c58a72799b6cf</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-21 16:28:47</sys_updated_on>
+        <tablename>x_66238_airline_trip</tablename>
+    </sys_metadata_link>
+</record_update>

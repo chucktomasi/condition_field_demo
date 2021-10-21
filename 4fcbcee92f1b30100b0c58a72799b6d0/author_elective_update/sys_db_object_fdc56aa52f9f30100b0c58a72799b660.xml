@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Status rule</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_66238_airline_status_rule</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 16:52:13</sys_created_on>
+        <sys_id>fdc56aa52f9f30100b0c58a72799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status rule</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_db_object_fdc56aa52f9f30100b0c58a72799b660</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 16:52:13</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_66238_airline.user" name="x_66238_airline.user">4edb4a212fdb30100b0c58a72799b62a</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</application>
+        <file_path/>
+        <instance_id>476ecffedb6cf70052cec597059619f3</instance_id>
+        <instance_name>dev79000</instance_name>
+        <name>sys_db_object_fdc56aa52f9f30100b0c58a72799b660</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Status rule</label><live_feed_enabled>false</live_feed_enabled><name>x_66238_airline_status_rule</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2021-10-19 16:52:13</sys_created_on><sys_id>fdc56aa52f9f30100b0c58a72799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Status rule</sys_name><sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package><sys_policy/><sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope><sys_update_name>sys_db_object_fdc56aa52f9f30100b0c58a72799b660</sys_update_name><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2021-10-19 16:52:13</sys_updated_on><update_access>false</update_access><user_role display_value="x_66238_airline.user" name="x_66238_airline.user">4edb4a212fdb30100b0c58a72799b62a</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1989541662</payload_hash>
+        <record_name>Status rule</record_name>
+        <reverted_from/>
+        <source>0fcbca612fdb30100b0c58a72799b617</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 16:52:15</sys_created_on>
+        <sys_id>3d06a6292f9f30100b0c58a72799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c9977c4f20000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 16:52:15</sys_updated_on>
+        <type>Table</type>
+        <update_guid>3506a629099f3010b25f6d2c87b4ae46</update_guid>
+        <update_guid_history>3506a629099f3010b25f6d2c87b4ae46:1989541662</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 17:50:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>6a9e14351e0844c09b0ea20a4acea900</sys_id>
+        <sys_metadata>fdc56aa52f9f30100b0c58a72799b660</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status rule</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_scope_delete display_value="">02a655a9ecec44c492e21884839ec9a4</sys_scope_delete>
+        <sys_update_name>sys_db_object_fdc56aa52f9f30100b0c58a72799b660</sys_update_name>
+        <sys_update_version display_value="sys_db_object_fdc56aa52f9f30100b0c58a72799b660">3d06a6292f9f30100b0c58a72799b646</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 17:50:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

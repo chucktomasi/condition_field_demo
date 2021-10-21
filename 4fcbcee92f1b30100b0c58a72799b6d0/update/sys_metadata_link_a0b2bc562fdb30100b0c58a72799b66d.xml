@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c96212ad2fdb30100b0c58a72799b64e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_66238_airline_customer">
+    <x_66238_airline_customer action="INSERT_OR_UPDATE">
+        <dollars>27983</dollars>
+        <email>mwernher4@livejournal.com</email>
+        <id>5T8NVXCP</id>
+        <miles>81644</miles>
+        <name>Maridel Wernher</name>
+        <status>platinum</status>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-19 15:26:27</sys_created_on>
+        <sys_id>c96212ad2fdb30100b0c58a72799b64e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-19 21:43:51</sys_updated_on>
+    </x_66238_airline_customer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2021-10-21 16:23:48</sys_created_on>
+        <sys_id>a0b2bc562fdb30100b0c58a72799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maridel Wernher</sys_name>
+        <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+        <sys_update_name>sys_metadata_link_a0b2bc562fdb30100b0c58a72799b66d</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2021-10-21 16:23:48</sys_updated_on>
+        <tablename>x_66238_airline_customer</tablename>
+    </sys_metadata_link>
+</record_update>

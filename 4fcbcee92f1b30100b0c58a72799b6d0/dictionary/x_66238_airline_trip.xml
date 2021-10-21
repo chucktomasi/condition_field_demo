@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Trip" max_length="40" name="x_66238_airline_trip" sizeclass="1002" type="collection">
+        <element attributes="encode_utf8=false" label="Customer" max_length="32" name="customer" reference="x_66238_airline_customer" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="From" max_length="40" name="from" type="string"/>
+        <element label="Miles" max_length="40" name="miles" type="integer"/>
+        <element label="Price" max_length="40" name="price" type="integer"/>
+        <element display="true" label="Record locator" max_length="40" name="record_locator" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="To" max_length="40" name="to" type="string"/>
+        <index name="index">
+            <element name="customer"/>
+        </index>
+    </element>
+</database>

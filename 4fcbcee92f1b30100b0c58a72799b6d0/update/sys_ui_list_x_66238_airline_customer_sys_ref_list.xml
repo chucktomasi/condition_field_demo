@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_66238_airline_customer" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_66238_airline_customer" element="NULL" name="x_66238_airline_customer" parent="NULL" relationship="NULL" sys_domain="global" view="f5133162db230010d5cc61ca0b96196c">e524a6e12f9f30100b0c58a72799b680</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 16:44:03</sys_created_on>
+            <sys_id>252426252f9f30100b0c58a72799b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 16:44:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_66238_airline_customer</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 16:44:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e524a6e12f9f30100b0c58a72799b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66238_airline_customer</sys_name>
+            <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+            <sys_update_name>sys_ui_list_x_66238_airline_customer_sys_ref_list</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 16:44:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">f5133162db230010d5cc61ca0b96196c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

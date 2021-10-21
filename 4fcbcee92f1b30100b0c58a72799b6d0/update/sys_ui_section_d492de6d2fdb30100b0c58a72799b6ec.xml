@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d492de6d2fdb30100b0c58a72799b6ec" sys_domain="global" table="x_66238_airline_customer" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>0</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>1ec252212f1f30100b0c58a72799b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>9ec252212f1f30100b0c58a72799b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>2</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>12c252212f1f30100b0c58a72799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>92c252212f1f30100b0c58a72799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>4</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>16c252212f1f30100b0c58a72799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dollars</element>
+            <position>5</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>96c252212f1f30100b0c58a72799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>miles</element>
+            <position>6</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:28:11</sys_created_on>
+            <sys_id>1ac252212f1f30100b0c58a72799b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_66238_airline_customer" sys_domain="global" view="Default view">d492de6d2fdb30100b0c58a72799b6ec</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:28:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_66238_airline_customer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2021-10-19 15:27:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d492de6d2fdb30100b0c58a72799b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_66238_airline_customer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Airline" source="x_66238_airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Airline">4fcbcee92f1b30100b0c58a72799b6d0</sys_scope>
+            <sys_update_name>sys_ui_section_d492de6d2fdb30100b0c58a72799b6ec</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2021-10-19 15:27:13</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
